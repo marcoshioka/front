@@ -1,0 +1,12 @@
+PageObjects\ProductAreaPage.class
+PageObjects\PasswordRecoveryModalPage.class
+Commom\Hooks.class
+StepDefinitions\AreaLogadaSteps.class
+PageObjects\ReportPage.class
+StepDefinitions\RelatorioGratuitoSteps.class
+StepDefinitions\AutenticacaoSteps.class
+StepDefinitions\Teste.class
+PageObjects\LandingPage.class
+Runner\testrunner.class
+PageObjects\LoginModalPage.class
+StepDefinitions\BotaoNovaConsultaSteps.class
